@@ -9,3 +9,14 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.digit-box {
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  font-size: 3rem;
+  padding: 20px;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
